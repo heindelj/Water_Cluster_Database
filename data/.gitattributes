@@ -1,0 +1,1 @@
+W3_W30_geoms_binary.npy filter=lfs diff=lfs merge=lfs -text
